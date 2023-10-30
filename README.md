@@ -2,7 +2,8 @@
 
 Utilize Unsupervised learning skills to reduce dimensionality and identify clusters in the penguins dataset
 
--- Image --
+![lter_penguins](https://github.com/YoussefAboelwafa/Clustering-Penguins-Species/assets/96186143/48a0c9a9-0722-4db7-b575-f7a531aaf3dd)
+
 
 **The dataset consists of 5 columns**
 
